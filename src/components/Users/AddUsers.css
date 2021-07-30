@@ -1,0 +1,12 @@
+label{
+  font-size: 20px;
+  font-weight: bold;
+ 
+}
+.input-ele{
+  margin-top: 10px;
+  height: 25px;
+  width: 90%;
+  border-width:0px solid whitesmoke;
+}
+
